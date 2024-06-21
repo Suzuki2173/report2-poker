@@ -1,0 +1,5 @@
+card_ranksでカードのランクを取得しソート
+is_flushで5枚のカードが同じスートか確認
+is_straightでカードが連続したランクを持つか確認
+classify_by_rankランクごとのカード枚数をカウント
+get_hand_rankで役判定
